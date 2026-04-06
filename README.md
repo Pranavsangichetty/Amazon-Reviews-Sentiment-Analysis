@@ -151,6 +151,5 @@ The objective is to demonstrate end-to-end ML workflow including data preprocess
 This project showcases a complete **end-to-end NLP pipeline**, from raw text processing to deployment. It highlights how machine learning can be applied to extract 
 meaningful insights from textual data in real-world scenarios.
 
----
 
 
